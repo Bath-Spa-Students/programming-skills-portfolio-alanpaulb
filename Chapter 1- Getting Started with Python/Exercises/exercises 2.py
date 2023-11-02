@@ -1,1 +1,4 @@
-print("""Python 3.11.5""")
+tw-story[tags~="1"] {
+background-image: url("https://i.imgur.com/2AUxits.jpg");
+background-size:cover;
+
