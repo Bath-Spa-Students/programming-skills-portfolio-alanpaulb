@@ -1,0 +1,5 @@
+name=input("enter name: ")
+name1=input("enter university name: ")
+print(name)
+print(name1)
+
