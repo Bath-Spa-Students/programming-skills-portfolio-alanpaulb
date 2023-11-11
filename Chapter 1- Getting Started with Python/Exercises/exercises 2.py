@@ -1,4 +1,3 @@
-tw-story[tags~="1"] {
-background-image: url("https://i.imgur.com/2AUxits.jpg");
-background-size:cover;
-
+#Write a Python program to get the Python version you are using.
+import sys
+print(sys.version)
